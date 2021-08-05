@@ -9,7 +9,7 @@ using namespace std;
 void timer();
 void displayClock();
 
-// hours, minutes, seconds of timer
+// hours, minutes, seconds of countdown
 int hours = 0;
 int minutes = 0;
 int seconds = 0;
